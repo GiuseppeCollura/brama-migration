@@ -1,2 +1,5 @@
 # brama-migration
-This repository contains the mirgations data, scripts and logs.
+
+This repository contains the migrations data, scripts and logs.
+
+Currently only used to test git commands.

@@ -7,3 +7,5 @@ Currently only used to test git commands.
 created for Ilionx.
 
 test
+
+lalsdk
